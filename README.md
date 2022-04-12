@@ -8,6 +8,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyuisilumi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
+### Estou aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+
 ### Contatos:
 
 <div>
