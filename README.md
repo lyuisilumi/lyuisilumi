@@ -4,8 +4,8 @@
 
 <div aling="center">
 <a href="https://github.com/lyuisilumi">
-<img width="500px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuisilumi&title_color=d11507&layout=compact&hide_border=true&theme=dark">
-<img width="500px" height="190px" src="https://github-readme-stats.vercel.app/api?username=lyuisilumi&show_icons=true&count_private=true&title_color=d11507&hide_border=true&icon_color=d11507&theme=dark" alt="Luis Felipe Pereira github stats" /> 
+<img width="440px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuisilumi&title_color=d11507&layout=compact&hide_border=true&theme=dark">
+<img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api?username=lyuisilumi&show_icons=true&count_private=true&title_color=d11507&hide_border=true&icon_color=d11507&theme=dark" alt="Luis Felipe Pereira github stats" /> 
   
 ### My skills:
 <div>
